@@ -59,8 +59,7 @@ var budgetController = (function(){
 
 		testing: function(){
 			console.log(data);
-			console.log("Martan was here");
-			console.log("Brandon was here");
+			console.log("Martan is going to get married");
 		}
 	};
 
